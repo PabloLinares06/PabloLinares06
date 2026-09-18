@@ -21,7 +21,7 @@
 
 ## 📌 Sobre Mí
 
-Desarrollador de Software con experiencia práctica construyendo aplicaciones modernas, escalables y eficientes tanto en **entornos empresariales (.NET / C#)** como en **soluciones full-stack en la nube (Angular, NestJS, PostgreSQL)**.
+Desarrollador de Software con experiencia práctica construyendo aplicaciones modernas, escalables y eficientes tanto en **entornos empresariales (.NET / C#)** como en **soluciones full-stack en la nube (Angular, NestJS, PostgreSQL)**. 
 
 Especializado en el diseño de **APIs REST robustas**, **migración y arquitectura de backend**, **optimización de costos en la nube (Cloud FinOps)**, y en traducir requerimientos de negocio y normativos complejos —incluyendo **lógica de nómina bajo la legislación laboral colombiana (Ley 2466 de 2025)** e **integraciones contables ERP (EFFI)**— en sistemas de producción confiables.
 
@@ -150,8 +150,11 @@ Especializado en el diseño de **APIs REST robustas**, **migración y arquitectu
 ## 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloLinares06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloLinares06&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://komarev.com/ghpvc/?username=PabloLinares06&color=0ea5e9&style=for-the-badge&label=Vistas+del+Perfil" alt="Vistas del Perfil" />
 </div>
 
 ---
